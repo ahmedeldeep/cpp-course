@@ -9,8 +9,10 @@ set(CMAKE_CXX_FLAGS, "${CXX_FLAGS}")
 
 
 project(cpp-course)
-add_executable(types types.cc)
-add_executable(auto_01 auto_01.cc)
-add_executable(auto_02 auto_02.cc)
-add_executable(decltype_01 decltype_01.cc)
-add_executable(decltype_02 decltype_02.cc)
+
+# Create target for each .cc file
+FILE(GLOB sources *.cc)
+foreach(source ${sources})
+  get_filename_component(target ${source} NAME_WE)
+  add_executable(${target} ${target}.cc)
+endforeach()
