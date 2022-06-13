@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "02-types"
+		},
+		{
+			"path": "03-pointers"
+		},
+		{
+			"path": "04-references"
 		}
 	],
 	"settings": {
