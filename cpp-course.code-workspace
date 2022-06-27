@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "04-references"
+		},
+		{
+			"path": "05-user-types"
 		}
 	],
 	"settings": {
