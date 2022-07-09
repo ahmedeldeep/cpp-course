@@ -7,8 +7,9 @@ add_definitions(-std=c++11)
 set(CXX_FLAGS "-Wall")
 set(CMAKE_CXX_FLAGS, "${CXX_FLAGS}")
 
-
 project(cpp-course)
+
+include_directories(${CMAKE_SOURCE_DIR})
 
 # Create target for each .cc file
 FILE(GLOB sources *.cc)
