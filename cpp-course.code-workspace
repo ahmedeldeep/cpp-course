@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "06-statements"
+		},
+		{
+			"path": "07-free-store"
 		}
 	],
 	"settings": {
