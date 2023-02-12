@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "05-user-types"
+		},
+		{
+			"path": "06-statements"
 		}
 	],
 	"settings": {
@@ -92,7 +95,18 @@
 			"iterator": "cpp",
 			"memory_resource": "cpp",
 			"utility": "cpp",
-			"stop_token": "cpp"
+			"stop_token": "cpp",
+			"__tree": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"unordered_set": "cpp",
+			"hash_map": "cpp",
+			"cinttypes": "cpp"
 		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
 	}
 }
