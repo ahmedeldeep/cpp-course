@@ -20,6 +20,12 @@
 		},
 		{
 			"path": "07-free-store"
+		},
+		{
+			"path": "08-desk-calculator"
+		},
+		{
+			"path": "09-lambda"
 		}
 	],
 	"settings": {
