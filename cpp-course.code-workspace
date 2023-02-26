@@ -26,6 +26,12 @@
 		},
 		{
 			"path": "09-lambda"
+		},
+		{
+			"path": "10-constexpr-functions"
+		},
+		{
+			"path": "11-function-arguments"
 		}
 	],
 	"settings": {
@@ -111,7 +117,8 @@
 			"set": "cpp",
 			"unordered_set": "cpp",
 			"hash_map": "cpp",
-			"cinttypes": "cpp"
+			"cinttypes": "cpp",
+			"__memory": "cpp"
 		}
 	},
 	"launch": {
