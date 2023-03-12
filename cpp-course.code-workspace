@@ -32,7 +32,9 @@
 		},
 		{
 			"path": "11-function-arguments"
-		}
+		{
+			"path": "12-catch-up"
+		},
 	],
 	"settings": {
 		"files.associations": {
