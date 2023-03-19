@@ -36,6 +36,9 @@
 		{
 			"path": "12-catch-up"
 		},
+		{
+			"path": "13-exceptions"
+		},
 	],
 	"settings": {
 		"files.associations": {
