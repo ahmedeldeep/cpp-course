@@ -39,6 +39,9 @@
 		{
 			"path": "13-exceptions"
 		},
+		{
+			"path": "14-vector"
+		},
 	],
 	"settings": {
 		"files.associations": {
