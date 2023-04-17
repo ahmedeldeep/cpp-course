@@ -42,6 +42,9 @@
 		{
 			"path": "14-vector"
 		},
+		{
+			"path": "15-namespaces"
+		},
 	],
 	"settings": {
 		"files.associations": {
