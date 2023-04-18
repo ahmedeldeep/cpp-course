@@ -45,6 +45,9 @@
 		{
 			"path": "15-namespaces"
 		},
+		{
+			"path": "16-modules"
+		},
 	],
 	"settings": {
 		"files.associations": {
