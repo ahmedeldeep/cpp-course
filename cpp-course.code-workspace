@@ -48,6 +48,9 @@
 		{
 			"path": "16-modules"
 		},
+		{
+			"path": "17-classes"
+		},
 	],
 	"settings": {
 		"files.associations": {
