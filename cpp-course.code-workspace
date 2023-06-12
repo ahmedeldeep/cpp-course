@@ -51,6 +51,9 @@
 		{
 			"path": "17-classes"
 		},
+		{
+			"path": "18-operator-overloading"
+		},
 	],
 	"settings": {
 		"files.associations": {
