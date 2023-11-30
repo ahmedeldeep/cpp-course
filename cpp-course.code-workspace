@@ -54,6 +54,9 @@
 		{
 			"path": "18-operator-overloading"
 		},
+		{
+			"path": "19-string"
+		},
 	],
 	"settings": {
 		"files.associations": {
