@@ -57,6 +57,9 @@
 		{
 			"path": "19-string"
 		},
+		{
+			"path": "20-derived-classes"
+		},
 	],
 	"settings": {
 		"files.associations": {
