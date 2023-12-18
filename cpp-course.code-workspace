@@ -60,6 +60,9 @@
 		{
 			"path": "20-derived-classes"
 		},
+		{
+			"path": "21-three-way-comparison"
+		},
 	],
 	"settings": {
 		"files.associations": {
