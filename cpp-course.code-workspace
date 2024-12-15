@@ -63,6 +63,9 @@
 		{
 			"path": "21-three-way-comparison"
 		},
+		{
+			"path": "22-templates"
+		},
 	],
 	"settings": {
 		"files.associations": {
@@ -148,7 +151,13 @@
 			"unordered_set": "cpp",
 			"hash_map": "cpp",
 			"cinttypes": "cpp",
-			"__memory": "cpp"
+			"__memory": "cpp",
+			"codecvt": "cpp",
+			"fstream": "cpp",
+			"iomanip": "cpp",
+			"stack": "cpp",
+			"__verbose_abort": "cpp",
+			"charconv": "cpp"
 		}
 	},
 	"launch": {
