@@ -66,6 +66,9 @@
 		{
 			"path": "22-templates"
 		},
+		{
+			"path": "23-metaprogramming"
+		},
 	],
 	"settings": {
 		"files.associations": {
